@@ -22,7 +22,7 @@
     z-index: 100;
 }
 .pipe_sprite{
-    position:absolute;
+    position:fixed;
     top: 40vh;
     left: 100vw;
     height: 70vh;
